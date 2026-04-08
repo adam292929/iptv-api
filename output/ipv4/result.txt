@@ -1,0 +1,18 @@
+🕘️更新时间,#genre#
+2026-04-08 19:38:12,http://111.56.90.5/000000000000/1000000005000265001/1.m3u8
+
+📺央视频道,#genre#
+CCTV-1,http://111.56.90.5/000000000000/1000000005000265001/1.m3u8
+CCTV-1,http://69.30.246.194/live/cctv1.m3u8
+CCTV-2,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv2hd
+CCTV-4,http://69.30.246.194/live/cctv4.m3u8
+CCTV-5,https://live12.xiazhix1.top/live/38260737.m3u8
+CCTV-5+,http://223.112.114.228:50080/newlive/live/hls/180/live.m3u8
+CCTV-6,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv6hd
+CCTV-7,http://111.56.90.5/000000000000/6000000001000009055/1.m3u8
+CCTV-10,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv10hd
+CCTV-12,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv12hd
+
+📡卫视频道,#genre#
+
+☘️广东频道,#genre#
