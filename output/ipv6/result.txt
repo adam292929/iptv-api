@@ -1,7 +1,9 @@
 🕘️更新时间,#genre#
-2026-04-10 21:59:38,http://ott.mobaibox.com/PLTV/4/224/3221228581/index.m3u8
+2026-04-11 18:20:47,http://ott.mobaibox.com/PLTV/4/224/3221228581/index.m3u8
 
 ,#genre#
+
+家庭源,#genre#
 
 央视,#genre#
 CCTV1,http://ott.mobaibox.com/PLTV/4/224/3221228581/index.m3u8
@@ -2159,10 +2161,12 @@ WION,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Wion/
 王菲精选145首(10小时),https://k0u6fy1dy17yc5zw2409x8c5ex5000x740xx5z.djvod.ndcimgs.com/bs3/video-hls/5230931130420749618_8530c04da878a1f8_4119_hlsb.m3u8
 黎明精选112首(8小时),https://k0ub7yffy10y8z.djvod.ndcimgs.com/bs3/video-hls/5257671152053263747_hlsb.m3u8
 
+github源,#genre#
+
 📺央视频道,#genre#
-CCTV-4K,http://121.29.90.89:7077/rtp/239.253.93.134:6631
 CCTV-4K,http://223.95.198.3:8000/hls/18/index.m3u8
 CCTV-4K,http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
+CCTV-4K,http://121.29.90.89:7077/rtp/239.253.93.134:6631
 CCTV-8K,http://ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
 CCTV-8K,https://t.freetv.fun/live/cctv8k.php
 CCTV-8K,http://3501776.xyz:35455/gaoma/cctv8k_36m.m3u8
@@ -2485,6 +2489,7 @@ TVB Plus,https://php.jdshipin.com:2096/TVOD/iptv.php?id=tvbp
 凤凰卫视中文台,https://t.freetv.fun/live/feng-huang-zhong-wen-3.m3u8
 凤凰卫视中文台,https://t.freetv.fun/live/feng-huang-zhong-wen-2.m3u8
 凤凰卫视中文台,https://stream1.freetv.fun/4e695e885cc20b20b7e3ec874fe52ed75e27443778c8ff29e498c4c9d7cec4a0.m3u8
+凤凰卫视资讯台,https://t.freetv.fun/live/feng-huang-zi-xun.php
 凤凰卫视香港台,https://cdn6.163189.xyz/163189/fhhk
 凤凰卫视香港台,https://php.jdshipin.com:2096/TVOD/iptv.php?id=fhhk
 凤凰卫视香港台,https://php.jdshipin.com:2096/TVOD/iptv.php?id=fhhk2

@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/adam292929/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-id="# 这是本地源列表" tvg-name="# 这是本地源列表" tvg-logo="https://www.xn--rgv465a.top/tvlogo/# 这是本地源列表.png" group-title="🕘️更新时间",2026-04-10 21:59:38
+#EXTINF:-1 tvg-id="# 这是本地源列表" tvg-name="# 这是本地源列表" tvg-logo="https://www.xn--rgv465a.top/tvlogo/# 这是本地源列表.png" group-title="🕘️更新时间",2026-04-11 18:20:47
 http://ott.mobaibox.com/PLTV/4/224/3221228581/index.m3u8
 #EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV1.png" group-title="央视",CCTV1
 http://ott.mobaibox.com/PLTV/4/224/3221228581/index.m3u8
@@ -4298,11 +4298,11 @@ https://k0u6fy1dy17yc5zw2409x8c5ex5000x740xx5z.djvod.ndcimgs.com/bs3/video-hls/5
 #EXTINF:-1 tvg-id="黎明精选112首(8小时)" tvg-name="黎明精选112首(8小时)" tvg-logo="https://www.xn--rgv465a.top/tvlogo/黎明精选112首(8小时).png" group-title="综合",黎明精选112首(8小时)
 https://k0ub7yffy10y8z.djvod.ndcimgs.com/bs3/video-hls/5257671152053263747_hlsb.m3u8
 #EXTINF:-1 tvg-id="CCTV-4K" tvg-name="CCTV-4K" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-4K.png" group-title="📺央视频道",CCTV-4K
-http://121.29.90.89:7077/rtp/239.253.93.134:6631
-#EXTINF:-1 tvg-id="CCTV-4K" tvg-name="CCTV-4K" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-4K.png" group-title="📺央视频道",CCTV-4K
 http://223.95.198.3:8000/hls/18/index.m3u8
 #EXTINF:-1 tvg-id="CCTV-4K" tvg-name="CCTV-4K" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-4K.png" group-title="📺央视频道",CCTV-4K
 http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="CCTV-4K" tvg-name="CCTV-4K" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-4K.png" group-title="📺央视频道",CCTV-4K
+http://121.29.90.89:7077/rtp/239.253.93.134:6631
 #EXTINF:-1 tvg-id="CCTV-8K" tvg-name="CCTV-8K" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-8K.png" group-title="📺央视频道",CCTV-8K
 http://ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
 #EXTINF:-1 tvg-id="CCTV-8K" tvg-name="CCTV-8K" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-8K.png" group-title="📺央视频道",CCTV-8K
@@ -4939,6 +4939,8 @@ https://t.freetv.fun/live/feng-huang-zhong-wen-3.m3u8
 https://t.freetv.fun/live/feng-huang-zhong-wen-2.m3u8
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰卫视中文台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰卫视中文台.png" group-title="🌊港·澳·台",凤凰卫视中文台
 https://stream1.freetv.fun/4e695e885cc20b20b7e3ec874fe52ed75e27443778c8ff29e498c4c9d7cec4a0.m3u8
+#EXTINF:-1 tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰卫视资讯台.png" group-title="🌊港·澳·台",凤凰卫视资讯台
+https://t.freetv.fun/live/feng-huang-zi-xun.php
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰卫视香港台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰卫视香港台.png" group-title="🌊港·澳·台",凤凰卫视香港台
 https://cdn6.163189.xyz/163189/fhhk
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰卫视香港台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰卫视香港台.png" group-title="🌊港·澳·台",凤凰卫视香港台
