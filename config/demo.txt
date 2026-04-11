@@ -4,7 +4,8 @@
 # The local source list, one line per source, format: channel name, interface address
 # Support setting whitelist: add $! after the interface
 # If there are multiple local source files, you can create a local directory under the config directory for storage, supporting txt/m3u file formats
-家庭源(不更新),#genre#
+家庭源,#genre#
+以下央视+卫视+地方台+综合 不更新，http://120.76.248.139/live/bfgd/4200000147.m3u8$
 央视,#genre#
 CCTV1,http://ott.mobaibox.com/PLTV/4/224/3221228581/index.m3u8
 CCTV2,http://ott.mobaibox.com/PLTV/3/224/3221228094/index.m3u8
@@ -1357,7 +1358,8 @@ WION,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 
 
 
-github源(不定时更新),#genre#
+github源,#genre#
+以下源地址不定时更新，http://120.76.248.139/live/bfgd/4200000147.m3u8$
 📺央视频道,#genre#
 CCTV-4K
 CCTV-8K
