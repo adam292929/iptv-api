@@ -2,6 +2,7 @@
 # 支持设置UA：https://xxx.com/subscribe.m3u UA="xxx"
 # This is a list of subscription sources, with one subscription address per line
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
+https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
  https://raw.githubusercontent.com/wcb1969/iptv/refs/heads/main/%E8%A1%A1%E9%98%B3V6.txt
  https://raw.githubusercontent.com/wcb1969/iptv/refs/heads/main/%E6%B8%AF%E5%8F%B04G%E4%BB%A3%E7%90%86.txt
  https://raw.githubusercontent.com/wcb1969/iptv/refs/heads/main/%E6%B8%AF%E5%8F%B0iptv12k.txt
