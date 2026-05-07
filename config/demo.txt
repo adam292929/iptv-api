@@ -4,10 +4,7 @@
 # The local source list, one line per source, format: channel name, interface address
 # Support setting whitelist: add $! after the interface
 # If there are multiple local source files, you can create a local directory under the config directory for storage, supporting txt/m3u file formats
-
-
 📺央视频道,#genre#
-
 CCTV-1 综合
 CCTV-2 财经
 CCTV-3 综艺
@@ -126,7 +123,6 @@ CHC 影迷电影
 农林卫视
 
 🌊港·澳·台,#genre#
-
 天映频道
 美亚电影台
 千禧经典台
