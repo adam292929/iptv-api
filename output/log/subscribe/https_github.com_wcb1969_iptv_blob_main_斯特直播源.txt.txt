@@ -1,21 +1,746 @@
 
 
 
-Rate limit · GitHub
 
 
 
 
 
-Whoa there!
-You have triggered an abuse detection mechanism.
-        Please wait a few minutes before you try again;
-        in some cases this may take up to an hour.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+iptv/斯特直播源.txt at main · wcb1969/iptv · GitHub
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation Menu
+
+Toggle navigation
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Sign in
+          
+
+
+ 
+
+
+Appearance settings
+
+
+
+
+
+
+
+
+
+
+
+PlatformAI CODE CREATIONGitHub CopilotWrite better code with AIGitHub SparkBuild and deploy intelligent appsGitHub ModelsManage and compare promptsMCP RegistryNewIntegrate external toolsDEVELOPER WORKFLOWSActionsAutomate any workflowCodespacesInstant dev environmentsIssuesPlan and track workCode ReviewManage code changesAPPLICATION SECURITYGitHub Advanced SecurityFind and fix vulnerabilitiesCode securitySecure your code as you buildSecret protectionStop leaks before they startEXPLOREWhy GitHubDocumentationBlogChangelogMarketplaceView all featuresSolutionsBY COMPANY SIZEEnterprisesSmall and medium teamsStartupsNonprofitsBY USE CASEApp ModernizationDevSecOpsDevOpsCI/CDView all use casesBY INDUSTRYHealthcareFinancial servicesManufacturingGovernmentView all industriesView all solutionsResourcesEXPLORE BY TOPICAISoftware DevelopmentDevOpsSecurityView all topicsEXPLORE BY TYPECustomer storiesEvents & webinarsEbooks & reportsBusiness insightsGitHub SkillsSUPPORT & SERVICESDocumentationCustomer supportCommunity forumTrust centerPartnersView all resourcesOpen SourceCOMMUNITYGitHub SponsorsFund open source developersPROGRAMSSecurity LabMaintainer CommunityAcceleratorGitHub StarsArchive ProgramREPOSITORIESTopicsTrendingCollectionsEnterpriseENTERPRISE SOLUTIONSEnterprise platformAI-powered developer platformAVAILABLE ADD-ONSGitHub Advanced SecurityEnterprise-grade security featuresCopilot for BusinessEnterprise-grade AI featuresPremium SupportEnterprise-grade 24/7 supportPricing
+
+
+
+
+
+
+
+
+
+
+Search or jump to...
+
+
+
+
+
+
+
+Search code, repositories, users, issues, pull requests...
+
+ 
+
+
+
+
+        Search
       
 
-Contact Support —
-        GitHub Status —
-        @githubstatus
+
+
+
+
+
+
+
+
+
+
+
+
+
+Clear
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Search syntax tips 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Provide feedback
+      
+
+
+
+
+
+
+
+
+
+ 
+We read every piece of feedback, and take your input very seriously.
+
+
+Include my email address so I can be contacted
+
+
+     Cancel
+
+    Submit feedback
+
+
+
+
+
+
+
+
+
+
+        Saved searches
+      
+Use saved searches to filter your results more quickly
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+Name
+
+
+
+
+
+
+Query
+
+
+
+            To see all available qualifiers, see our documentation.
+          
+ 
+
+
+
+
+
+     Cancel
+
+    Create saved search
+
+
+
+
+
+
+
+
+                Sign in
+              
+
+
+                Sign up
+              
+
+
+ 
+
+
+Appearance settings
+
+
+
+Resetting focus
+
+
+
+
+
+
+
+
+
+You signed in with another tab or window. Reload to refresh your session.
+You signed out in another tab or window. Reload to refresh your session.
+You switched accounts on another tab or window. Reload to refresh your session.
+ 
+
+
+Dismiss alert
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        wcb1969
+ 
+/
+
+iptv
+
+Public
+
+
+
+
+
+ 
+
+Notifications
+ You must be signed in to change notification settings
+
+
+ 
+
+Fork
+    664
+
+
+
+
+ 
+
+
+          Star
+ 2.1k
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Code
+
+
+
+
+
+
+
+Issues
+12
+
+
+
+
+
+
+Pull requests
+3
+
+
+
+
+
+
+Actions
+
+
+
+
+
+
+
+Projects
+
+
+
+
+
+
+
+Security and quality
+0
+
+
+
+
+
+
+Insights
+
+
+
+ 
+
+ 
+
+
+Additional navigation options
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+          Code
+
+
+
+
+
+
+
+
+
+
+
+          Issues
+
+
+
+
+
+
+
+
+
+
+
+          Pull requests
+
+
+
+
+
+
+
+
+
+
+
+          Actions
+
+
+
+
+
+
+
+
+
+
+
+          Projects
+
+
+
+
+
+
+
+
+
+
+
+          Security and quality
+
+
+
+
+
+
+
+
+
+
+
+          Insights
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+   FilesExpand file tree mainBreadcrumbsiptv/斯特直播源.txtCopy pathBlameMore file actionsBlameMore file actions Latest commit HistoryHistoryHistory737 lines (734 loc) · 46.3 KB mainBreadcrumbsiptv/斯特直播源.txtTopFile metadata and controlsCodeBlame737 lines (734 loc) · 46.3 KBRawCopy raw fileDownload raw fileOpen symbols panelEdit and raw actions123456789101112131415161718192021222324252627282930313233343536373839404142434445464748495051525354555657585960616263646566676869707172737475767778798081828384858687888990919293949596979899100101102103104105106107108109110111112113114115116117118119120121122123124125126127128129130131132133134135136137138139140141142143144145146147148149150151152153154155156157158159160161162163164165166167168169170171172173174175176177178179180181182183184185186187188189190191192193194195196197198199200201202203204205206207208209210211212213214215216217218219220221222223224225226227228229230231232233234235236237238239240241242243244245246247248249250251252253254255256257258259260261262263264265266267268269270271272273274275276277278279280281282283284285286287288289290291292293294295296297298299300301302303304305306307308309310311312313314315316317318319320321322323324325326327328329330331332333334335336337338339340341342343344345346347348349350351352353354355356357358359360361362363364365366367368369370371372373374375376377378379380381382383384385386387388389390391392393394395396397398399400401402403404405406407408409410411412413414415416417418419420421422423424425426427428429430431432433434435436437438439440441442443444445446447448449450451452453454455456457458459460461462463464465466467468469470471472473474475476477478479480481482483484485486487488489490491492493494495496497498499500501502503504505506507508509510511512513514515516517518519520521522523524525526527528529530531532533534535536537538539540541542543544545546547548549550551552553554555556557558559560561562563564565566567568569570571572573574575576577578579580581582583584585586587588589590591592593594595596597598599600601602603604605606607608609610611612613614615616617618619620621622623624625626627628629630631632633634635636637638639640641642643644645646647648649650651652653654655656657658659660661662663664665666667668669670671672673674675676677678679680681682683684685686687688689690691692693694695696697698699700701702703704705706707708709710711712713714715716717718719720721722723724725726727728729730731732733734735736737大陆频道,#genre#CCTV-1 综合 HD, http://lzoq.serv00.net/daili/Smartv.php?id=cctv1  CCTV-2 财经, http://lzoq.serv00.net/daili/Smartv.php?id=cctv2  CCTV-3 综艺 HD, http://lzoq.serv00.net/daili/Smartv.php?id=cctv3  CCTV-4 中文国际, http://lzoq.serv00.net/daili/Smartv.php?id=cctv4  CCTV4 新闻台, http://lzoq.serv00.net/daili/Smartv.php?id=Cctv4  CCTV-7 军事农业, http://lzoq.serv00.net/daili/Smartv.php?id=cctv7  CCTV-8 电视剧 HD, http://lzoq.serv00.net/daili/Smartv.php?id=cctv8hd  CCTV-9 记录 HD, http://lzoq.serv00.net/daili/Smartv.php?id=cctv9hd  CCTV-10 科教 HD, http://lzoq.serv00.net/daili/Smartv.php?id=cctv10hd  CCTV-11 戏曲, http://lzoq.serv00.net/daili/Smartv.php?id=cctv11  CCTV-12 社会与法, http://lzoq.serv00.net/daili/Smartv.php?id=cctv12  CCTV-13 新闻频道, http://lzoq.serv00.net/daili/Smartv.php?id=cctv13  CCTV-14 少儿, http://lzoq.serv00.net/daili/Smartv.php?id=cctv14  CCTV-6, http://lzoq.serv00.net/daili/Smartv.php?id=cctv6  CCTV-15 音乐, http://lzoq.serv00.net/daili/Smartv.php?id=cctv15  湖南卫视 Hunan, http://lzoq.serv00.net/daili/Smartv.php?id=Hunan  湖南卫视 （备份）, http://lzoq.serv00.net/daili/Smartv.php?id=hunan_twn  浙江卫视 Zhejiang, http://lzoq.serv00.net/daili/Smartv.php?id=Zhejiang  浙江卫视 （备用）, http://lzoq.serv00.net/daili/Smartv.php?id=zhejiang_twn  江苏卫视 Jiangsu, http://lzoq.serv00.net/daili/Smartv.php?id=Jiangsu  江苏卫视 （备份）, http://lzoq.serv00.net/daili/Smartv.php?id=jiangsu_twn  深圳卫视, http://lzoq.serv00.net/daili/Smartv.php?id=shenzhen  福建东南卫视, http://lzoq.serv00.net/daili/Smartv.php?id=fujian  广东南方卫视, http://lzoq.serv00.net/daili/Smartv.php?id=nanfang_twn  广东卫视, http://lzoq.serv00.net/daili/Smartv.php?id=guangdongweishi_twn  北京卫视, http://lzoq.serv00.net/daili/Smartv.php?id=beijing  珠江台, http://lzoq.serv00.net/daili/Smartv.php?id=zhujiang  广西卫视, http://lzoq.serv00.net/daili/Smartv.php?id=guangxi  湖北卫视, http://lzoq.serv00.net/daili/Smartv.php?id=hubei  四川卫视, http://lzoq.serv00.net/daili/Smartv.php?id=sichuan_twn  凤凰卫视, http://lzoq.serv00.net/daili/Smartv.php?id=phoenixtv_hd  东方卫视, http://lzoq.serv00.net/daili/Smartv.php?id=dongfangweishi_twn  CGTN, http://lzoq.serv00.net/daili/Smartv.php?id=CGTN  CCTV-17, http://lzoq.serv00.net/daili/Smartv.php?id=cctv17  CCTV-5 体育频道, http://lzoq.serv00.net/daili/Smartv.php?id=cctv5  CCTV-5+ 体育赛事 HD, http://lzoq.serv00.net/daili/Smartv.php?id=cctv5plus  凤凰资讯, http://lzoq.serv00.net/daili/Smartv.php?id=phoenixinfo_hd  
+纪录片频道,#genre#Natgeo_HD, http://lzoq.serv00.net/daili/Smartv.php?id=natgeohd_twn  NatGeo_Wild HD, http://lzoq.serv00.net/daili/Smartv.php?id=natgeowild_twn  Animal_Planet, http://lzoq.serv00.net/daili/Smartv.php?id=animalplanet_twn  Discovery Asia, http://lzoq.serv00.net/daili/Smartv.php?id=discoverytwn_twn  CI, http://lzoq.serv00.net/daili/Smartv.php?id=ci_twn  Asia Travel, http://lzoq.serv00.net/daili/Smartv.php?id=asiatravel_twn  Discovery HD, http://lzoq.serv00.net/daili/Smartv.php?id=discoveryhd_twn  亚洲美食, http://lzoq.serv00.net/daili/Smartv.php?id=afc_twn  美食星球, http://lzoq.serv00.net/daili/Smartv.php?id=foodplanet_twn  TLC Asia, http://lzoq.serv00.net/daili/Smartv.php?id=tlc_twn  History, http://lzoq.serv00.net/daili/Smartv.php?id=History  BBC Earth HD, http://lzoq.serv00.net/daili/Smartv.php?id=bbcearth_twn  BBC Earth Lifestyle, http://lzoq.serv00.net/daili/Smartv.php?id=bbclifestyle_twn  MTV Live, http://lzoq.serv00.net/daili/Smartv.php?id=mtvhd_twn  HGTV, http://lzoq.serv00.net/daili/Smartv.php?id=HGTV  
+香港频道,#genre#翡翠台, http://lzoq.serv00.net/daili/Smartv.php?id=jade_twn  iNews 新闻台, http://lzoq.serv00.net/daili/Smartv.php?id=inews_twn  J2, http://lzoq.serv00.net/daili/Smartv.php?id=j2_twn  J2 备用, http://lzoq.serv00.net/daili/Smartv.php?id=j2_hkdavid  珍珠台, http://lzoq.serv00.net/daili/Smartv.php?id=pearl_twn  珍珠台 备用, http://lzoq.serv00.net/daili/Smartv.php?id=pearl_hkdavid  凤凰香港, http://lzoq.serv00.net/daili/Smartv.php?id=hkphoenix_twn  无线财经资讯台, http://lzoq.serv00.net/daili/Smartv.php?id=tvbcaijing_twn  TVB 星河, http://lzoq.serv00.net/daili/Smartv.php?id=tvbxinhe_twn  RHK 31, http://lzoq.serv00.net/daili/Smartv.php?id=rhk31_twn  VIUTV1, http://lzoq.serv00.net/daili/Smartv.php?id=viu1_twn  RHK 32, http://lzoq.serv00.net/daili/Smartv.php?id=rhk32_twn  Viu6, http://lzoq.serv00.net/daili/Smartv.php?id=viusix_twn  69, http://lzoq.serv00.net/daili/Smartv.php?id=viutv69_hkdavid翡翠台 backup, http://lzoq.serv00.net/daili/Smartv.php?id=jade_mike  其他频道,#genre#靖天卡通台,http://lzoq.serv00.net/daili/Smartv.php?id=jingtiancartoon_twnBoomerang Taiwan,http://lzoq.serv00.net/daili/Smartv.php?id=boomerang_twnBaby TV,http://lzoq.serv00.net/daili/Smartv.php?id=babytv_twnMiaoMi,http://lzoq.serv00.net/daili/Smartv.php?id=MiaoMi东森幼幼 Yoyo TV,http://lzoq.serv00.net/daili/Smartv.php?id=yoyo_twnCartoon Network,http://lzoq.serv00.net/daili/Smartv.php?id=CnNickelodeon,http://lzoq.serv00.net/daili/Smartv.php?id=NickelodeonNick Jr,http://lzoq.serv00.net/daili/Smartv.php?id=Nickjr  HBO Hits HD,http://lzoq.serv00.net/daili/Smartv.php?id=Hbohits  HBO HD,http://lzoq.serv00.net/daili/Smartv.php?id=Hbo  HBO Signature,http://lzoq.serv00.net/daili/Smartv.php?id=Hbosignature  NatGeo Wild HD,http://lzoq.serv00.net/daili/Smartv.php?id=Natgeowild  Cartoon Network,http://lzoq.serv00.net/daili/Smartv.php?id=Cn  Nickelodeon,http://lzoq.serv00.net/daili/Smartv.php?id=Nickelodeon  Nick Jr,http://lzoq.serv00.net/daili/Smartv.php?id=Nickjr  Dreamworks,http://lzoq.serv00.net/daili/Smartv.php?id=Dreamworks    华丽台 HD （Wah Lai Toi）,http://lzoq.serv00.net/daili/Smartv.php?id=Wlt  欢喜台 HD （Hua Hee Tai）,http://lzoq.serv00.net/daili/Smartv.php?id=Huahee  欢喜台 backup,http://lzoq.serv00.net/daili/Smartv.php?id=Huahee_backup  TVB 星河台 Xing He,http://lzoq.serv00.net/daili/Smartv.php?id=Xinhe  爱奇艺 iQiyi,http://lzoq.serv00.net/daili/Smartv.php?id=Qiyi  龙详时代,http://lzoq.serv00.net/daili/Smartv.php?id=lungxiangtime_twn  Animax,http://lzoq.serv00.net/daili/Smartv.php?id=Animax  Movies Now HD,http://lzoq.serv00.net/daili/Smartv.php?id=moviesnow_raj  Star Movies HD,http://lzoq.serv00.net/daili/Smartv.php?id=starmovies_raj  卫视中文台 Star Movies Chinese,http://lzoq.serv00.net/daili/Smartv.php?id=weishichinese_twn  HBO Family,http://lzoq.serv00.net/daili/Smartv.php?id=Hbofamily  HBO Hits HD,http://lzoq.serv00.net/daili/Smartv.php?id=Hbohits  HBO HD,http://lzoq.serv00.net/daili/Smartv.php?id=Hbo  卫视电影台,http://lzoq.serv00.net/daili/Smartv.php?id=weishimovie_twn  HBO Signature,http://lzoq.serv00.net/daili/Smartv.php?id=Hbosignature  Hits,http://lzoq.serv00.net/daili/Smartv.php?id=Hits  Warner TV,http://lzoq.serv00.net/daili/Smartv.php?id=WarnerTV  美亚电影,http://lzoq.serv00.net/daili/Smartv.php?id=meiyamovie_twn  星卫电影,http://lzoq.serv00.net/daili/Smartv.php?id=xingwei_movie    Hits Movie,http://lzoq.serv00.net/daili/Smartv.php?id=Hitsmovie  tvN Movie,http://lzoq.serv00.net/daili/Smartv.php?id=TvnmovieDW (Deutsch),http://lzoq.serv00.net/daili/Smartv.php?id=dw_twn  NHK World,http://lzoq.serv00.net/daili/Smartv.php?id=nhkworld_japan  CCTV-5 体育频道,http://lzoq.serv00.net/daili/Smartv.php?id=cctv5  CCTV-5+ 体育赛事 HD,http://lzoq.serv00.net/daili/Smartv.php?id=cctv5plus  爱尔达体育2台,http://lzoq.serv00.net/daili/Smartv.php?id=eltasport2_twn  爱尔达体育3台,http://lzoq.serv00.net/daili/Smartv.php?id=eltasport3_twn  
+Taiwan,#genre#  TVBS News 新闻台,http://lzoq.serv00.net/daili/Smartv.php?id=tvbs_n  东森财经新闻 ETTV Business,http://lzoq.serv00.net/daili/Smartv.php?id=ettvcaijing_twnTVBS 欢乐台 （备份）,http://lzoq.serv00.net/daili/Smartv.php?id=tvbshuanle_twn  TVBS HD,http://lzoq.serv00.net/daili/Smartv.php?id=tvbs  中天新闻 HD,http://lzoq.serv00.net/daili/Smartv.php?id=ctinews  中天娱乐 CTI Entertaiment,http://lzoq.serv00.net/daili/Smartv.php?id=ctient  中天综合 CTI Metro,http://lzoq.serv00.net/daili/Smartv.php?id=ctizhonghe  中天亚洲台,http://lzoq.serv00.net/daili/Smartv.php?id=ctiasia_twn  台视 TTV HD,http://lzoq.serv00.net/daili/Smartv.php?id=ttv_taiwan  台视新闻台,http://lzoq.serv00.net/daili/Smartv.php?id=ttvnews_twn  台视综合台,http://lzoq.serv00.net/daili/Smartv.php?id=ttvzhonghe_twn  中视 HD,http://lzoq.serv00.net/daili/Smartv.php?id=zhongshihd_twn  中视新闻台,http://lzoq.serv00.net/daili/Smartv.php?id=zhongshinews_twn  民视 HD,http://lzoq.serv00.net/daili/Smartv.php?id=ftvhd_taiwan  民视新闻台 FTV News,http://lzoq.serv00.net/daili/Smartv.php?id=ftvnew_taiwan  民视台湾台,http://lzoq.serv00.net/daili/Smartv.php?id=ftvtaiwan_twn  华视 CTS HD,http://lzoq.serv00.net/daili/Smartv.php?id=ctshd_twn  公视 CTV,http://lzoq.serv00.net/daili/Smartv.php?id=ctv_taiwan  八大第一 GTV First,http://lzoq.serv00.net/daili/Smartv.php?id=badafirst  八大综合 GTV Metro,http://lzoq.serv00.net/daili/Smartv.php?id=badazhonghe  八大戏剧 GTV Drama,http://lzoq.serv00.net/daili/Smartv.php?id=badadrama  八大娱乐 GTV Entertainment,http://lzoq.serv00.net/daili/Smartv.php?id=badaentertain  HBO_HD,http://lzoq.serv00.net/daili/Smartv.php?id=hbohd_twnHBO_HITS,http://lzoq.serv00.net/daili/Smartv.php?id=hbohits_twnHollywood Movies,http://lzoq.serv00.net/daili/Smartv.php?id=hollywoodmovies_twn三立台湾 Sanli Taiwan,http://lzoq.serv00.net/daili/Smartv.php?id=sanlitaiwan三立戏剧台,http://lzoq.serv00.net/daili/Smartv.php?id=sanlixiju_twn三立综合 Sanli Metro,http://lzoq.serv00.net/daili/Smartv.php?id=sanlizhonghe三立都会台,http://lzoq.serv00.net/daili/Smartv.php?id=sanlidouhui东森新闻 ETTV News,http://lzoq.serv00.net/daili/Smartv.php?id=ettvnewsCINEMAX,http://lzoq.serv00.net/daili/Smartv.php?id=cinemax_twn东森综合 ETTV Metro,http://lzoq.serv00.net/daili/Smartv.php?id=ettvzhonghe东森戏剧 ETTV Drama,http://lzoq.serv00.net/daili/Smartv.php?id=ettvdrama东森超视,http://lzoq.serv00.net/daili/Smartv.php?id=ettvsuper东森财经新闻 ETTV Business,http://lzoq.serv00.net/daili/Smartv.php?id=ettvcaijing_twn寰宇财经,http://lzoq.serv00.net/daili/Smartv.php?id=huanyutaiwan_twn寰宇新闻台,http://lzoq.serv00.net/daili/Smartv.php?id=huanyuxinwen_twn大爱1台,http://lzoq.serv00.net/daili/Smartv.php?id=daai_twn非凡新闻台,http://lzoq.serv00.net/daili/Smartv.php?id=feifannews_twn龙华戏剧 Lunghua Drama,http://lzoq.serv00.net/daili/Smartv.php?id=lunghuaxiju_twn龙华戏剧台,http://lzoq.serv00.net/daili/Smartv.php?id=lunghuaxiju_twn龙华经典台,http://lzoq.serv00.net/daili/Smartv.php?id=lunghuajingdian_twn龙华偶像,http://lzoq.serv00.net/daili/Smartv.php?id=lunghuaidol_twnAXN Taiwan,http://lzoq.serv00.net/daili/Smartv.php?id=axn_twn靖天国际台,http://lzoq.serv00.net/daili/Smartv.php?id=jingtianintl_twn年代新闻,http://lzoq.serv00.net/daili/Smartv.php?id=niandainews_twn纬来日本台,http://lzoq.serv00.net/daili/Smartv.php?id=videolandjapan纬来电影台,http://lzoq.serv00.net/daili/Smartv.php?id=videolandmovie_twn纬来体育台,http://lzoq.serv00.net/daili/Smartv.php?id=videolandsport纬来综合台,http://lzoq.serv00.net/daili/Smartv.php?id=videolandzonghe纬来育乐,http://lzoq.serv00.net/daili/Smartv.php?id=videolandyule纬来精彩,http://lzoq.serv00.net/daili/Smartv.php?id=videolandspecial_twn好消息 2,http://lzoq.serv00.net/daili/Smartv.php?id=goods_twn大爱2台,http://lzoq.serv00.net/daili/Smartv.php?id=catchplay_twn亚洲美食,http://lzoq.serv00.net/daili/Smartv.php?id=afc_twn美食星球,http://lzoq.serv00.net/daili/Smartv.php?id=foodplanet_twn亚洲旅游 TLC Asia,http://lzoq.serv00.net/daili/Smartv.php?id=tlc_twn东森电影 ETTV Movie,http://lzoq.serv00.net/daili/Smartv.php?id=ettvmovie阿里郎 Arirang,http://lzoq.serv00.net/daili/Smartv.php?id=arirang_twn博斯运动 1,http://lzoq.serv00.net/daili/Smartv.php?id=bosisport1_twn博斯运动 2,http://lzoq.serv00.net/daili/Smartv.php?id=bosisport2_twn博斯高球2 HD,http://lzoq.serv00.net/daili/Smartv.php?id=bosigolf2_twn博斯网球 HD,http://lzoq.serv00.net/daili/Smartv.php?id=bositennis_twn东森洋片 ETTV Western,http://lzoq.serv00.net/daili/Smartv.php?id=ettvwestern龙华洋片 Lunghua Western,http://lzoq.serv00.net/daili/Smartv.php?id=lunghuawestern_twn博斯无限,http://lzoq.serv00.net/daili/Smartv.php?id=bosiunlimited_twnMTV Live,http://lzoq.serv00.net/daili/Smartv.php?id=mtvhd_twn龙详时代,http://lzoq.serv00.net/daili/Smartv.php?id=lungxiangtime_twnEYETV 旅游,http://lzoq.serv00.net/daili/Smartv.php?id=eyetvtravel_twn靖天卡通台,http://lzoq.serv00.net/daili/Smartv.php?id=jingtiancartoon_twnEYETV 戏剧,http://lzoq.serv00.net/daili/Smartv.php?id=eyetvxiju_twn卫视中文台 Star Movies Chinese,http://lzoq.serv00.net/daili/Smartv.php?id=weishichinese_twn东森幼幼 Yoyo TV,http://lzoq.serv00.net/daili/Smartv.php?id=yoyo_twn卫视电影台,http://lzoq.serv00.net/daili/Smartv.php?id=weishimovie_twn美亚电影,http://lzoq.serv00.net/daili/Smartv.php?id=meiyamovie_twn爱尔达影剧台,http://lzoq.serv00.net/daili/Smartv.php?id=eltayingju_twn爱尔达综合台,http://lzoq.serv00.net/daili/Smartv.php?id=eltazonghe_twn星卫电影,http://lzoq.serv00.net/daili/Smartv.php?id=xingwei_movie爱尔达影剧,http://lzoq.serv00.net/daili/Smartv.php?id=eltayingju_twn爱尔达体育2台,http://lzoq.serv00.net/daili/Smartv.php?id=eltasport2_twn爱尔达体育3台,http://lzoq.serv00.net/daili/Smartv.php?id=eltasport3_twnAFC 亚洲旅游台,http://lzoq.serv00.net/daili/Smartv.php?id=asiatravel_twnCCTV1,http://xn--94q.l5.ca/daili/Smartv.php?id=cctv1CCTV1,http://php.jdshipin.com:8880/smt.php?id=cctv1CCTV5+,http://php.jdshipin.com:8880/smt.php?id=cctv5p重庆卫视,http://php.jdshipin.com:8880/smt.php?id=cqws重庆卫视,http://xn--94q.l5.ca/daili/Smartv.php?id=cqwsCinemax,http://xn--94q.l5.ca/daili/Smartv.php?id=cinemax_twnEYE戏剧,http://xn--94q.l5.ca/daili/Smartv.php?id=eyetvxiju_twnEYE旅游,http://xn--94q.l5.ca/daili/Smartv.php?id=eyetvtravel_twnHBO,http://xn--94q.l5.ca/daili/Smartv.php?id=hbohd_twnHBO Family,http://xn--94q.l5.ca/daili/Smartv.php?id=fyi_twn好莱坞电影,http://xn--94q.l5.ca/daili/Smartv.php?id=hollywoodmovies_twnMTV Live,http://xn--94q.l5.ca/daili/Smartv.php?id=mtvhd_twnTLC,http://xn--94q.l5.ca/daili/Smartv.php?id=tlc_twn东森新闻,http://xn--94q.l5.ca/daili/Smartv.php?id=ettvnewsTVBS HD,http://xn--94q.l5.ca/daili/Smartv.php?id=tvbsTVBS新闻,http://xn--94q.l5.ca/daili/Smartv.php?id=tvbs_nTVBS欢乐,http://xn--94q.l5.ca/daili/Smartv.php?id=tvbshuanle_twn三立台湾,http://xn--94q.l5.ca/daili/Smartv.php?id=sanlitaiwan三立戏剧,http://xn--94q.l5.ca/daili/Smartv.php?id=sanlixiju_twn三立综合,http://xn--94q.l5.ca/daili/Smartv.php?id=sanlizhonghe中天亚洲,http://xn--94q.l5.ca/daili/Smartv.php?id=ctiasia_twn中天娱乐,http://xn--94q.l5.ca/daili/Smartv.php?id=ctient中天新闻,http://xn--94q.l5.ca/daili/Smartv.php?id=ctinews中天综合,http://xn--94q.l5.ca/daili/Smartv.php?id=ctizhonghe亚洲旅游,http://xn--94q.l5.ca/daili/Smartv.php?id=asiatravel_twn亚洲美食,http://xn--94q.l5.ca/daili/Smartv.php?id=afc_twn八大戏剧,http://xn--94q.l5.ca/daili/Smartv.php?id=badadrama八大第1,http://xn--94q.l5.ca/daili/Smartv.php?id=badafirst八大综合,http://xn--94q.l5.ca/daili/Smartv.php?id=badazhonghe公视,http://xn--94q.l5.ca/daili/Smartv.php?id=ctv_taiwan民视,http://xn--94q.l5.ca/daili/Smartv.php?id=ftvhd_taiwan民视第一,http://xn--94q.l5.ca/daili/Smartv.php?id=lunghuajingdian_twn民视台湾,http://xn--94q.l5.ca/daili/Smartv.php?id=ftvtaiwan_twn民视新闻,http://xn--94q.l5.ca/daili/Smartv.php?id=ftvnew_taiwan台视,http://xn--94q.l5.ca/daili/Smartv.php?id=ttv_taiwan	台视新闻,http://xn--94q.l5.ca/daili/Smartv.php?id=ttvnews_twn中视,http://xn--94q.l5.ca/daili/Smartv.php?id=zhongshihd_twn中视新闻,http://xn--94q.l5.ca/daili/Smartv.php?id=zhongshinews_twn中视经典,http://xn--94q.l5.ca/daili/Smartv.php?id=zhongshi_twn华视,http://xn--94q.l5.ca/daili/Smartv.php?id=ctshd_twn华艺综合,http://xn--94q.l5.ca/daili/Smartv.php?id=weishichinese_twn大爱1,http://xn--94q.l5.ca/daili/Smartv.php?id=daai_twn寰宇新闻,http://xn--94q.l5.ca/daili/Smartv.php?id=huanyuxinwen_twn寰宇财经,http://xn--94q.l5.ca/daili/Smartv.php?id=huanyutaiwan_twn年代新闻,http://xn--94q.l5.ca/daili/Smartv.php?id=niandainews_twn爱尔达影剧,http://xn--94q.l5.ca/daili/Smartv.php?id=eltayingju_twn爱尔达体育1,http://xn--94q.l5.ca/daili/Smartv.php?id=eltasport_twn爱尔达体育2,http://xn--94q.l5.ca/daili/Smartv.php?id=eltasport2_twn爱尔达体育3,http://xn--94q.l5.ca/daili/Smartv.php?id=eltasport3_twnELEVEN1,http://xn--94q.l5.ca/daili/Smartv.php?id=golfchannel_twn博斯网球,http://xn--94q.l5.ca/daili/Smartv.php?id=bositennis_twn博斯运动1,http://xn--94q.l5.ca/daili/Smartv.php?id=bosisport1_twn博斯运动2,http://xn--94q.l5.ca/daili/Smartv.php?id=bosisport2_twn博斯高球1,http://xn--94q.l5.ca/daili/Smartv.php?id=bosigolf1_twn博斯高球2,http://xn--94q.l5.ca/daili/Smartv.php?id=bosigolf2_twn探索亚洲,http://xn--94q.l5.ca/daili/Smartv.php?id=discoverytwn_twn探索动力,http://xn--94q.l5.ca/daili/Smartv.php?id=discoveryturbo_twn国家地理,http://xn--94q.l5.ca/daili/Smartv.php?id=natgeohd_twn野生动物,http://xn--94q.l5.ca/daili/Smartv.php?id=natgeowild_twn动物星球,http://xn--94q.l5.ca/daili/Smartv.php?id=animalplanet_twn时尚,http://xn--94q.l5.ca/daili/Smartv.php?id=fashiontv_twnDiscovery Asia,http://xn--94q.l5.ca/daili/Smartv.php?id=discoverytwn_twnDiscovery,http://xn--94q.l5.ca/daili/Smartv.php?id=discoveryhd_twn东森戏剧,http://xn--94q.l5.ca/daili/Smartv.php?id=ettvdrama东森洋片,http://xn--94q.l5.ca/daili/Smartv.php?id=ettvwestern东森综合,http://xn--94q.l5.ca/daili/Smartv.php?id=ettvzhonghe东森财经新闻,http://xn--94q.l5.ca/daili/Smartv.php?id=ettvcaijing_twn东森电影,http://xn--94q.l5.ca/daili/Smartv.php?id=ettvmovie纬来日本,http://xn--94q.l5.ca/daili/Smartv.php?id=videolandjapan纬来体育,http://xn--94q.l5.ca/daili/Smartv.php?id=videolandsport美亚电影,http://xn--94q.l5.ca/daili/Smartv.php?id=meiyamovie_twnBBC World News,http://xn--94q.l5.ca/daili/Smartv.php?id=bbcnews_twnBloomberg News,http://xn--94q.l5.ca/daili/Smartv.php?id=bloomberg_twnFox News,http://xn--94q.l5.ca/daili/Smartv.php?id=foxnews_twn阿里郎,http://xn--94q.l5.ca/daili/Smartv.php?id=arirang_twnCN卡通,http://xn--94q.l5.ca/daili/Smartv.php?id=momo1_twn靖天卡通,http://xn--94q.l5.ca/daili/Smartv.php?id=jingtiancartoon_twn靖天国际,http://xn--94q.l5.ca/daili/Smartv.php?id=jingtianintl_twn非凡新闻,http://xn--94q.l5.ca/daili/Smartv.php?id=feifannews_twn龙祥时代,http://xn--94q.l5.ca/daili/Smartv.php?id=lungxiangtime_twn龙华偶像,http://xn--94q.l5.ca/daili/Smartv.php?id=lunghuaidol_twn龙华戏剧,http://xn--94q.l5.ca/daili/Smartv.php?id=lunghuaxiju_twn龙华洋片,http://xn--94q.l5.ca/daili/Smartv.php?id=lunghuawestern_twn龙华经典,http://xn--94q.l5.ca/daili/Smartv.php?id=lunghuajingdian_twn龙华电影,http://xn--94q.l5.ca/daili/Smartv.php?id=xingwei_movieTV1,http://xn--94q.l5.ca/daili/Smartv.php?id=TV1TV1,http://xn--94q.l5.ca/daili/Smartv.php?id=TV1_backupTV2,http://xn--94q.l5.ca/daili/Smartv.php?id=TV2TV3,http://xn--94q.l5.ca/daili/Smartv.php?id=TV3TV3,http://xn--94q.l5.ca/daili/Smartv.php?id=tv3_twnNTV7,http://xn--94q.l5.ca/daili/Smartv.php?id=NTV7TV8,http://xn--94q.l5.ca/daili/Smartv.php?id=TV8TV9,http://xn--94q.l5.ca/daili/Smartv.php?id=TV9Warna,http://xn--94q.l5.ca/daili/Smartv.php?id=Warna-OWarna,http://xn--94q.l5.ca/daili/Smartv.php?id=WarnaRia,http://xn--94q.l5.ca/daili/Smartv.php?id=Ria-0Ria,http://xn--94q.l5.ca/daili/Smartv.php?id=Ria49Ria3,http://xn--94q.l5.ca/daili/Smartv.php?id=Ria_quanjiaAl-Hijrah,http://xn--94q.l5.ca/daili/Smartv.php?id=AlhijrahAl-Hijrah,http://xn--94q.l5.ca/daili/Smartv.php?id=Alhijrah_backupAwani,http://xn--94q.l5.ca/daili/Smartv.php?id=AwaniBernama,http://xn--94q.l5.ca/daili/Smartv.php?id=BernamaPrima,http://xn--94q.l5.ca/daili/Smartv.php?id=Prima-0Prima,http://xn--94q.l5.ca/daili/Smartv.php?id=Prima49Ceria,http://xn--94q.l5.ca/daili/Smartv.php?id=CeriaAstro MTV,http://xn--94q.l5.ca/daili/Smartv.php?id=AstroMTVMecca Live HD,http://xn--94q.l5.ca/daili/Smartv.php?id=quran_midoMadinah HD,http://xn--94q.l5.ca/daili/Smartv.php?id=sunnah_midoOasis,http://xn--94q.l5.ca/daili/Smartv.php?id=OasisHBO HD,http://xn--94q.l5.ca/daili/Smartv.php?id=HboHBO Signature,http://xn--94q.l5.ca/daili/Smartv.php?id=HbosignatureHBO Hits,http://xn--94q.l5.ca/daili/Smartv.php?id=HbohitsNatGeo Wild HD,http://xn--94q.l5.ca/daili/Smartv.php?id=NatgeowildCartoon Network,http://xn--94q.l5.ca/daili/Smartv.php?id=CnNickelodeon,http://xn--94q.l5.ca/daili/Smartv.php?id=NickelodeonNick Jr,http://xn--94q.l5.ca/daili/Smartv.php?id=NickjrCitra,http://xn--94q.l5.ca/daili/Smartv.php?id=CitraSensasi,http://xn--94q.l5.ca/daili/Smartv.php?id=SensasiAura,http://xn--94q.l5.ca/daili/Smartv.php?id=AuraRania,http://xn--94q.l5.ca/daili/Smartv.php?id=RaniaBoo,http://xn--94q.l5.ca/daili/Smartv.php?id=BooAwesome TV,http://xn--94q.l5.ca/daili/Smartv.php?id=Awesome_megaSony HD,http://xn--94q.l5.ca/daili/Smartv.php?id=SetOneKBS World,http://xn--94q.l5.ca/daili/Smartv.php?id=KBSTvN,http://xn--94q.l5.ca/daili/Smartv.php?id=TVNAstro Premier,http://xn--94q.l5.ca/daili/Smartv.php?id=AstropremierAstro AEC,http://xn--94q.l5.ca/daili/Smartv.php?id=AECAstro 华丽,http://xn--94q.l5.ca/daili/Smartv.php?id=WltAstro 欢喜,http://xn--94q.l5.ca/daili/Smartv.php?id=HuaheeAstro 欢喜,http://xn--94q.l5.ca/daili/Smartv.php?id=Huahee_backupAstro全佳,http://xn--94q.l5.ca/daili/Smartv.php?id=QuanjiaTVB Jade,http://xn--94q.l5.ca/daili/Smartv.php?id=TvbjadeTVB Jade,http://php.jdshipin.com:8880/smt.php?id=TvbjadeTVBS Asia,http://xn--94q.l5.ca/daili/Smartv.php?id=TvbasiaTVB Entertainment,http://xn--94q.l5.ca/daili/Smartv.php?id=TvbentertainmentTVB Classic,http://xn--94q.l5.ca/daili/Smartv.php?id=TvbclassicAstro AOD,http://xn--94q.l5.ca/daili/Smartv.php?id=AodHDOne,http://xn--94q.l5.ca/daili/Smartv.php?id=One_mega星河,http://xn--94q.l5.ca/daili/Smartv.php?id=Xinhe星河,http://php.jdshipin.com:8880/smt.php?id=XinheAstro爱奇艺,http://xn--94q.l5.ca/daili/Smartv.php?id=QiyiAnimal Planet (Eng),http://xn--94q.l5.ca/daili/Smartv.php?id=AnimalPlanettvN Movie,http://xn--94q.l5.ca/daili/Smartv.php?id=TvnmovieCNN,http://xn--94q.l5.ca/daili/Smartv.php?id=cnn_twnCelestial Classic,http://xn--94q.l5.ca/daili/Smartv.php?id=Celestial2CNBC,http://xn--94q.l5.ca/daili/Smartv.php?id=cnbc_twnRTM Sports HD,http://xn--94q.l5.ca/daili/Smartv.php?id=RtmsportTLC,http://xn--94q.l5.ca/daili/Smartv.php?id=TlcCNA,http://xn--94q.l5.ca/daili/Smartv.php?id=cna亚洲旅游,http://xn--94q.l5.ca/daili/Smartv.php?id=asiatravel_twnBBC World News,http://xn--94q.l5.ca/daili/Smartv.php?id=bbcnews_twnFoodnetwork Hd,http://xn--94q.l5.ca/daili/Smartv.php?id=Foodnetwork_megaHGTV,http://xn--94q.l5.ca/daili/Smartv.php?id=HGTVArena,http://xn--94q.l5.ca/daili/Smartv.php?id=ArenaGoshop,http://xn--94q.l5.ca/daili/Smartv.php?id=GoshopCelestial Movies HD,http://xn--94q.l5.ca/daili/Smartv.php?id=Celestial_megaArena 2,http://xn--94q.l5.ca/daili/Smartv.php?id=Arena2Axn HD,http://xn--94q.l5.ca/daili/Smartv.php?id=AxnParamount Network,http://xn--94q.l5.ca/daili/Smartv.php?id=ParamountnetworkBolaArena 1,http://xn--94q.l5.ca/daili/Smartv.php?id=Bolaarena1Astrol Kplus,http://xn--94q.l5.ca/daili/Smartv.php?id=KplusRock Actions,http://xn--94q.l5.ca/daili/Smartv.php?id=RockactionBloomberg News,http://xn--94q.l5.ca/daili/Smartv.php?id=bloomberg_twnAl-Jazeera,http://xn--94q.l5.ca/daili/Smartv.php?id=aljazeera_twnRock Entertainment,http://xn--94q.l5.ca/daili/Smartv.php?id=RockentertainShowcase,http://xn--94q.l5.ca/daili/Smartv.php?id=Showcase_megaBolaArena 2,http://xn--94q.l5.ca/daili/Smartv.php?id=Bolaarena2Channel 5,http://xn--94q.l5.ca/daili/Smartv.php?id=Channel5HDChannel 5,http://xn--94q.l5.ca/daili/Smartv.php?id=Ch5_megaChannel 8,http://xn--94q.l5.ca/daili/Smartv.php?id=Channel8HDChannel 8,http://xn--94q.l5.ca/daili/Smartv.php?id=Ch8_megaSuria,http://xn--94q.l5.ca/daili/Smartv.php?id=SuriaSuria,http://xn--94q.l5.ca/daili/Smartv.php?id=Suria_backupChannel U,http://xn--94q.l5.ca/daili/Smartv.php?id=ChannelUChannel U,http://xn--94q.l5.ca/daili/Smartv.php?id=ChU_megaVasantham,http://xn--94q.l5.ca/daili/Smartv.php?id=VasanthamVasantham,http://xn--94q.l5.ca/daili/Smartv.php?id=Vasantham_megaCNA,http://xn--94q.l5.ca/daili/Smartv.php?id=cnaCNA,http://xn--94q.l5.ca/daili/Smartv.php?id=cna_twnTVRI National,http://xn--94q.l5.ca/daili/Smartv.php?id=TVRIRCTI,http://xn--94q.l5.ca/daili/Smartv.php?id=RctiKompass TV,http://xn--94q.l5.ca/daili/Smartv.php?id=KompassBerita Satu,http://xn--94q.l5.ca/daili/Smartv.php?id=BeritaSatu_ekoIndosiar HD,http://xn--94q.l5.ca/daili/Smartv.php?id=IndosiarAnTV,http://xn--94q.l5.ca/daili/Smartv.php?id=AntvMNC TV,http://xn--94q.l5.ca/daili/Smartv.php?id=MnctvTrans 7,http://xn--94q.l5.ca/daili/Smartv.php?id=Trans7_ekoTranstv,http://xn--94q.l5.ca/daili/Smartv.php?id=TranstvJTV,http://xn--94q.l5.ca/daili/Smartv.php?id=JTV_ekoMetro TV,http://xn--94q.l5.ca/daili/Smartv.php?id=metrotv_ekoCinemax,http://xn--94q.l5.ca/daili/Smartv.php?id=CinemaxSCTV,http://xn--94q.l5.ca/daili/Smartv.php?id=SCTVTvone,http://xn--94q.l5.ca/daili/Smartv.php?id=TvoneTVMU,http://xn--94q.l5.ca/daili/Smartv.php?id=TVMU_ekoGTV,http://xn--94q.l5.ca/daili/Smartv.php?id=GtvRTV,http://xn--94q.l5.ca/daili/Smartv.php?id=RtvJak TV,http://xn--94q.l5.ca/daili/Smartv.php?id=JakTViNews TV,http://xn--94q.l5.ca/daili/Smartv.php?id=InewstvDaai TV,http://xn--94q.l5.ca/daili/Smartv.php?id=DaaiTVNet TV,http://xn--94q.l5.ca/daili/Smartv.php?id=NetTVAnimax,http://xn--94q.l5.ca/daili/Smartv.php?id=AnimaxEWTN,http://xn--94q.l5.ca/daili/Smartv.php?id=EwtnAlQuran AlKareem,http://xn--94q.l5.ca/daili/Smartv.php?id=AlQuranTawaf TV,http://xn--94q.l5.ca/daili/Smartv.php?id=TawafTVVision Prime,http://xn--94q.l5.ca/daili/Smartv.php?id=VisionPrimeMuslim TV,http://xn--94q.l5.ca/daili/Smartv.php?id=MuslimTVMusic TV,http://xn--94q.l5.ca/daili/Smartv.php?id=MusicTVLifestyle&Fashion,http://xn--94q.l5.ca/daili/Smartv.php?id=LifestyleEntertain,http://xn--94q.l5.ca/daili/Smartv.php?id=EntertainHits,http://xn--94q.l5.ca/daili/Smartv.php?id=HitsWarner TV,http://xn--94q.l5.ca/daili/Smartv.php?id=WarnerTVSCM,http://xn--94q.l5.ca/daili/Smartv.php?id=WeishimovieThrill,http://xn--94q.l5.ca/daili/Smartv.php?id=ThrillFight Sports,http://xn--94q.l5.ca/daili/Smartv.php?id=FsBeinsports 2 HD,http://xn--94q.l5.ca/daili/Smartv.php?id=Bein2hdHits Movie,http://xn--94q.l5.ca/daili/Smartv.php?id=HitsmovieOne,http://xn--94q.l5.ca/daili/Smartv.php?id=One_megatvN Movie,http://xn--94q.l5.ca/daili/Smartv.php?id=TvnmovieCelestial Movies HD,http://xn--94q.l5.ca/daili/Smartv.php?id=CelestialindoRock Actions,http://xn--94q.l5.ca/daili/Smartv.php?id=RockactionRock Entertainment,http://xn--94q.l5.ca/daili/Smartv.php?id=RockentertainJ2,http://xn--94q.l5.ca/daili/Smartv.php?id=j2_hkdavidJ2,http://xn--94q.l5.ca/daili/Smartv.php?id=j2_twnRTHK31,http://xn--94q.l5.ca/daili/Smartv.php?id=rhk31_twnRTHK32,http://xn--94q.l5.ca/daili/Smartv.php?id=rhk32_twn星河,http://xn--94q.l5.ca/daili/Smartv.php?id=tvbxinhe_twnViu,http://xn--94q.l5.ca/daili/Smartv.php?id=viu1_twnViu69,http://xn--94q.l5.ca/daili/Smartv.php?id=viutv69_hkdavidViu6,http://xn--94q.l5.ca/daili/Smartv.php?id=viusix_twniNews新闻,http://xn--94q.l5.ca/daili/Smartv.php?id=inews_twn无线财经,http://xn--94q.l5.ca/daili/Smartv.php?id=tvbcaijing_twn明珠,http://xn--94q.l5.ca/daili/Smartv.php?id=pearl_hkdavid明珠,http://xn--94q.l5.ca/daili/Smartv.php?id=pearl_twn翡翠,http://xn--94q.l5.ca/daili/Smartv.php?id=jade_mike翡翠,http://xn--94q.l5.ca/daili/Smartv.php?id=jade_twn翡翠,http://php.jdshipin.com:8880/smt.php?id=jade_twn凤凰中文,http://xn--94q.l5.ca/daili/Smartv.php?id=phoenixtv_hd凤凰中文,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd凤凰资讯,http://xn--94q.l5.ca/daili/Smartv.php?id=phoenixinfo_hd凤凰资讯,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd凤凰香港,http://xn--94q.l5.ca/daili/Smartv.php?id=hkphoenix_twn凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twnSupersports 1,http://xn--94q.l5.ca/daili/Smartv.php?id=Assp1Supersports 1,http://xn--94q.l5.ca/daili/Smartv.php?id=go_assp1Supersportq 1,http://xn--94q.l5.ca/daili/Smartv.php?id=Assp1_megaSupersports 2,http://xn--94q.l5.ca/daili/Smartv.php?id=Assp2Supersports 2,http://xn--94q.l5.ca/daili/Smartv.php?id=go_assp2Supersports 3,http://xn--94q.l5.ca/daili/Smartv.php?id=Assp3Supersports 3,http://xn--94q.l5.ca/daili/Smartv.php?id=go_assp3Supersports 3,http://xn--94q.l5.ca/daili/Smartv.php?id=Assp3_megaSupersports 4,http://xn--94q.l5.ca/daili/Smartv.php?id=Assp4_megaSupersports 4,http://xn--94q.l5.ca/daili/Smartv.php?id=go_assp4Supersports 5,http://xn--94q.l5.ca/daili/Smartv.php?id=go_assp5Bein 2HD,http://xn--94q.l5.ca/daili/Smartv.php?id=BeinhdBeinsports HD,http://xn--94q.l5.ca/daili/Smartv.php?id=BesportsChampion 5 EPL,http://xn--94q.l5.ca/daili/Smartv.php?id=Champion5eplWWE,http://xn--94q.l5.ca/daili/Smartv.php?id=WweChampion 6 EPL,http://xn--94q.l5.ca/daili/Smartv.php?id=Champion6eplFight Sports,http://xn--94q.l5.ca/daili/Smartv.php?id=FsUFC Network,http://xn--94q.l5.ca/daili/Smartv.php?id=ufc_megaNBA TV,http://xn--94q.l5.ca/daili/Smartv.php?id=nbatv_twnAstro Cricket,http://xn--94q.l5.ca/daili/Smartv.php?id=Acricket_megaAstro Golf,http://xn--94q.l5.ca/daili/Smartv.php?id=AgolfTNT Sports 1,http://xn--94q.l5.ca/daili/Smartv.php?id=beeoneTNT Sports 2,http://xn--94q.l5.ca/daili/Smartv.php?id=beetwoTNT Sports 3,http://xn--94q.l5.ca/daili/Smartv.php?id=beethreeTNT Sports 4,http://xn--94q.l5.ca/daili/Smartv.php?id=beefourSony Ten 1,http://xn--94q.l5.ca/daili/Smartv.php?id=ten1_rajSony Ten 2,http://xn--94q.l5.ca/daili/Smartv.php?id=ten2_rajSony Ten 3,http://xn--94q.l5.ca/daili/Smartv.php?id=ten3_rajSPOTV 1 HD,http://xn--94q.l5.ca/daili/Smartv.php?id=go_spotvSPO TV 2,http://xn--94q.l5.ca/daili/Smartv.php?id=go_spotv2Beinsports 2 HD,http://xn--94q.l5.ca/daili/Smartv.php?id=Bein2hdSkysports Arena,http://xn--94q.l5.ca/daili/Smartv.php?id=tiankongarenaSkysports F1,http://xn--94q.l5.ca/daili/Smartv.php?id=tiankongf1Skysports Cricket,http://xn--94q.l5.ca/daili/Smartv.php?id=tiankongcricketSkysports EPL,http://xn--94q.l5.ca/daili/Smartv.php?id=tiankongeplSkysports Football,http://xn--94q.l5.ca/daili/Smartv.php?id=tiankongfootballSkysports Golf,http://xn--94q.l5.ca/daili/Smartv.php?id=tiankonggolfSkysports Main Event,http://xn--94q.l5.ca/daili/Smartv.php?id=tiankongmainSkysports News,http://xn--94q.l5.ca/daili/Smartv.php?id=tiankongnewsSkysports NFL,http://xn--94q.l5.ca/daili/Smartv.php?id=tiankongnflSkysports Racing,http://xn--94q.l5.ca/daili/Smartv.php?id=tiankongracingSkysports Mix,http://xn--94q.l5.ca/daili/Smartv.php?id=tiankongmixCCTV5,http://xn--94q.l5.ca/daili/Smartv.php?id=cctv5CCTV5+,http://xn--94q.l5.ca/daili/Smartv.php?id=cctv5plusELTA3,http://xn--94q.l5.ca/daili/Smartv.php?id=eltasport3_twnRTM Sports HD,http://xn--94q.l5.ca/daili/Smartv.php?id=RtmsportArena,http://xn--94q.l5.ca/daili/Smartv.php?id=ArenaArena 2,http://xn--94q.l5.ca/daili/Smartv.php?id=Arena2BolaArena 1,http://xn--94q.l5.ca/daili/Smartv.php?id=Bolaarena1Bein 1 Sports,http://xn--94q.l5.ca/daili/Smartv.php?id=bein1_megaBein 2 Sports,http://xn--94q.l5.ca/daili/Smartv.php?id=bein2_megaBein 3 Sports,http://xn--94q.l5.ca/daili/Smartv.php?id=bein3_megaBein 4 Sports,http://xn--94q.l5.ca/daili/Smartv.php?id=bein4_megaBein 5 Sports,http://xn--94q.l5.ca/daili/Smartv.php?id=bein5_megaBein 6 Sports,http://xn--94q.l5.ca/daili/Smartv.php?id=bein6_megaBein 7 Sports,http://xn--94q.l5.ca/daili/Smartv.php?id=bein7_megaRugby Pass TV,http://xn--94q.l5.ca/daili/Smartv.php?id=RugbypasstvBolaArena 2,http://xn--94q.l5.ca/daili/Smartv.php?id=Bolaarena2Sun TV HD,http://xn--94q.l5.ca/daili/Smartv.php?id=SuntvStar Vijay,http://xn--94q.l5.ca/daili/Smartv.php?id=StarvijayColors Tamil,http://xn--94q.l5.ca/daili/Smartv.php?id=Colorstam_megaSun Music,http://xn--94q.l5.ca/daili/Smartv.php?id=SunmusicAstro Sunlife,http://xn--94q.l5.ca/daili/Smartv.php?id=SunlifeAstro Vaanavil,http://xn--94q.l5.ca/daili/Smartv.php?id=VaanavilZee Tamil,http://xn--94q.l5.ca/daili/Smartv.php?id=ZeetamilZee Business,http://xn--94q.l5.ca/daili/Smartv.php?id=ZeebusinessNews 18 Tamil,http://xn--94q.l5.ca/daili/Smartv.php?id=news18tamil_rajAdithya,http://xn--94q.l5.ca/daili/Smartv.php?id=AdithyaMakkal TV,http://xn--94q.l5.ca/daili/Smartv.php?id=MakkaltvZee Action,http://xn--94q.l5.ca/daili/Smartv.php?id=ZeeactionAstro KTV,http://xn--94q.l5.ca/daili/Smartv.php?id=AstroktvZee TV HD,http://xn--94q.l5.ca/daili/Smartv.php?id=ZeetvhdZee Cinema HD,http://xn--94q.l5.ca/daili/Smartv.php?id=ZeecinemahdColor HD,http://xn--94q.l5.ca/daili/Smartv.php?id=ColorhdStarplus HD,http://xn--94q.l5.ca/daili/Smartv.php?id=StarplushdPicture HD,http://xn--94q.l5.ca/daili/Smartv.php?id=NpictureZee News,http://xn--94q.l5.ca/daili/Smartv.php?id=ZeenewsAsianet,http://xn--94q.l5.ca/daili/Smartv.php?id=asianet_rajAsianet News,http://xn--94q.l5.ca/daili/Smartv.php?id=asianetnews_rajTimes Now,http://xn--94q.l5.ca/daili/Smartv.php?id=timesnow_megaBBC Earth Tamil,http://xn--94q.l5.ca/daili/Smartv.php?id=bbcearthtam_rajDiscovery World Tamil,http://xn--94q.l5.ca/daili/Smartv.php?id=discoveryworldtam_rajHistory Tamil,http://xn--94q.l5.ca/daili/Smartv.php?id=historytam_rajNatGeo Tamil,http://xn--94q.l5.ca/daili/Smartv.php?id=natgeotamil_rajNatgeo Wild Tamil,http://xn--94q.l5.ca/daili/Smartv.php?id=natgeowildtamil_rajDiscovery Kids Tamil,http://xn--94q.l5.ca/daili/Smartv.php?id=discoverykidtamil_rajDiscovery Tamil,http://xn--94q.l5.ca/daili/Smartv.php?id=discoverytamil_rajSony Yay Tamil,http://xn--94q.l5.ca/daili/Smartv.php?id=sonyyaytam_rajSun TV India,http://xn--94q.l5.ca/daili/Smartv.php?id=suntv_rajStarmaa HD,http://xn--94q.l5.ca/daili/Smartv.php?id=starmaa_rajStarmaa Movies HD,http://xn--94q.l5.ca/daili/Smartv.php?id=starmaamovies_rajBollyone,http://xn--94q.l5.ca/daili/Smartv.php?id=BollyoneAstro Sunmusic,http://xn--94q.l5.ca/daili/Smartv.php?id=SunmusicSony Pix HD,http://xn--94q.l5.ca/daili/Smartv.php?id=sonypix_megaVijay Super,http://xn--94q.l5.ca/daili/Smartv.php?id=vijaysuper_rajAXN,http://xn--94q.l5.ca/daili/Smartv.php?id=axn_twnAnimax,http://xn--94q.l5.ca/daili/Smartv.php?id=AnimaxAstrol Kplus,http://xn--94q.l5.ca/daili/Smartv.php?id=KplusAxn,http://xn--94q.l5.ca/daili/Smartv.php?id=AxnCCTV6,http://xn--94q.l5.ca/daili/Smartv.php?id=cctv6CINEMAX,http://xn--94q.l5.ca/daili/Smartv.php?id=cinemax_twnCelestial Classic,http://xn--94q.l5.ca/daili/Smartv.php?id=Celestial2Celestial Movies HD,http://xn--94q.l5.ca/daili/Smartv.php?id=CelestialindoCinemax,http://xn--94q.l5.ca/daili/Smartv.php?id=CinemaxHBO Family,http://xn--94q.l5.ca/daili/Smartv.php?id=HbofamilyHBO,http://xn--94q.l5.ca/daili/Smartv.php?id=HboHBO Hits,http://xn--94q.l5.ca/daili/Smartv.php?id=HbohitsHBO Signature,http://xn--94q.l5.ca/daili/Smartv.php?id=HbosignatureHBO HD,http://xn--94q.l5.ca/daili/Smartv.php?id=hbohd_twnHBO Hits,http://xn--94q.l5.ca/daili/Smartv.php?id=hbohits_twnHits,http://xn--94q.l5.ca/daili/Smartv.php?id=HitsmovieHits,http://xn--94q.l5.ca/daili/Smartv.php?id=HitsHollywood Movies,http://xn--94q.l5.ca/daili/Smartv.php?id=hollywoodmovies_twnMovies Now HD,http://xn--94q.l5.ca/daili/Smartv.php?id=moviesnow_rajOne,http://xn--94q.l5.ca/daili/Smartv.php?id=One_megaParamount Network,http://xn--94q.l5.ca/daili/Smartv.php?id=ParamountnetworkRock Actions,http://xn--94q.l5.ca/daili/Smartv.php?id=RockactionRock Entertainment,http://xn--94q.l5.ca/daili/Smartv.php?id=RockentertainSCM,http://xn--94q.l5.ca/daili/Smartv.php?id=WeishimovieSony Pix HD,http://xn--94q.l5.ca/daili/Smartv.php?id=sonypix_megaStar Movies HD,http://xn--94q.l5.ca/daili/Smartv.php?id=starmovies_rajThrill,http://xn--94q.l5.ca/daili/Smartv.php?id=ThrillWarner TV,http://xn--94q.l5.ca/daili/Smartv.php?id=WarnerTVtvN Movie,http://xn--94q.l5.ca/daili/Smartv.php?id=Tvnmovie大爱2,http://xn--94q.l5.ca/daili/Smartv.php?id=catchplay_twn龙华电影,http://xn--94q.l5.ca/daili/Smartv.php?id=xingwei_movie东森洋片,http://xn--94q.l5.ca/daili/Smartv.php?id=ettvwestern东森电影,http://xn--94q.l5.ca/daili/Smartv.php?id=ettvmovie美亚电影,http://xn--94q.l5.ca/daili/Smartv.php?id=meiyamovie_twn龙华洋片,http://xn--94q.l5.ca/daili/Smartv.php?id=lunghuawestern_twn龙祥时代,http://xn--94q.l5.ca/daili/Smartv.php?id=lungxiangtime_twnAFC,http://xn--94q.l5.ca/daili/Smartv.php?id=asiatravel_twnAnimal Planet,http://xn--94q.l5.ca/daili/Smartv.php?id=AnimalPlanetAnimal Planet,http://xn--94q.l5.ca/daili/Smartv.php?id=animalplanet_twnAsia Travel,http://xn--94q.l5.ca/daili/Smartv.php?id=asiatravel_twnBBC Earth HD,http://xn--94q.l5.ca/daili/Smartv.php?id=bbcearth_twnBBC Earth Lifestyle,http://xn--94q.l5.ca/daili/Smartv.php?id=bbclifestyle_twnCI,http://xn--94q.l5.ca/daili/Smartv.php?id=ci_twnDiscovery Asia,http://xn--94q.l5.ca/daili/Smartv.php?id=discoverytwn_twnDiscovery HD,http://xn--94q.l5.ca/daili/Smartv.php?id=discoveryhd_twnFashion,http://xn--94q.l5.ca/daili/Smartv.php?id=fashiontv_twnFoodnetwork Hd,http://xn--94q.l5.ca/daili/Smartv.php?id=Foodnetwork_megaHGTV,http://xn--94q.l5.ca/daili/Smartv.php?id=HGTVHistory,http://xn--94q.l5.ca/daili/Smartv.php?id=HistoryMTV Live,http://xn--94q.l5.ca/daili/Smartv.php?id=mtvhd_twnNatGeo HD,http://xn--94q.l5.ca/daili/Smartv.php?id=NatgeoNatGeo Wild HD,http://xn--94q.l5.ca/daili/Smartv.php?id=NatgeowildNatGeo Wild HD,http://xn--94q.l5.ca/daili/Smartv.php?id=natgeowild_twnNatgeo HD,http://xn--94q.l5.ca/daili/Smartv.php?id=natgeohd_twnTLC,http://xn--94q.l5.ca/daili/Smartv.php?id=TlcTLC Asia,http://xn--94q.l5.ca/daili/Smartv.php?id=tlc_twn亚洲美食,http://xn--94q.l5.ca/daili/Smartv.php?id=afc_twn美食星球,http://xn--94q.l5.ca/daili/Smartv.php?id=foodplanet_twnABC News,http://xn--94q.l5.ca/daili/Smartv.php?id=abcnews_gloAl-Jazeera,http://xn--94q.l5.ca/daili/Smartv.php?id=aljazeera_twnBBC World News,http://xn--94q.l5.ca/daili/Smartv.php?id=BbcnewsBBC World News,http://xn--94q.l5.ca/daili/Smartv.php?id=bbcnews_twnBloomberg News,http://xn--94q.l5.ca/daili/Smartv.php?id=bloomberg_twnCBS,http://xn--94q.l5.ca/daili/Smartv.php?id=cbshd_gloCBSN,http://xn--94q.l5.ca/daili/Smartv.php?id=cbsn_gloCGTN,http://xn--94q.l5.ca/daili/Smartv.php?id=CGTNCNA,http://xn--94q.l5.ca/daili/Smartv.php?id=cnaCNBC,http://xn--94q.l5.ca/daili/Smartv.php?id=cnbc_twnCNN International,http://xn--94q.l5.ca/daili/Smartv.php?id=CnnCNN,http://xn--94q.l5.ca/daili/Smartv.php?id=cnn_twnDW,http://xn--94q.l5.ca/daili/Smartv.php?id=dw_twnFox News,http://xn--94q.l5.ca/daili/Smartv.php?id=foxnews_twnFrance 24,http://xn--94q.l5.ca/daili/Smartv.php?id=france24_twnNHK World,http://xn--94q.l5.ca/daili/Smartv.php?id=nhkworld_japanSkynews,http://xn--94q.l5.ca/daili/Smartv.php?id=skynews_antik东森财经新闻,http://xn--94q.l5.ca/daili/Smartv.php?id=ettvcaijing_twnAnimax,http://xn--94q.l5.ca/daili/Smartv.php?id=AnimaxBaby,http://xn--94q.l5.ca/daili/Smartv.php?id=BabytvBaby,http://xn--94q.l5.ca/daili/Smartv.php?id=babytv_twnBoomerang Taiwan,http://xn--94q.l5.ca/daili/Smartv.php?id=boomerang_twnBoomerang,http://xn--94q.l5.ca/daili/Smartv.php?id=BoomerangCBeebies,http://xn--94q.l5.ca/daili/Smartv.php?id=CbeebiesCartoon Network,http://xn--94q.l5.ca/daili/Smartv.php?id=CnDisney Taiwan,http://xn--94q.l5.ca/daili/Smartv.php?id=disneytwn_twnKids TV,http://xn--94q.l5.ca/daili/Smartv.php?id=KidsTVMiaoMi,http://xn--94q.l5.ca/daili/Smartv.php?id=MiaoMiMomo,http://xn--94q.l5.ca/daili/Smartv.php?id=momo1_twnNick Jr,http://xn--94q.l5.ca/daili/Smartv.php?id=NickjrNickelodeon,http://xn--94q.l5.ca/daili/Smartv.php?id=Nickelodeon东森幼幼,http://xn--94q.l5.ca/daili/Smartv.php?id=yoyo_twn靖天卡通,http://xn--94q.l5.ca/daili/Smartv.php?id=jingtiancartoon_twnAmarin,http://xn--94q.l5.ca/daili/Smartv.php?id=amarin_patCh 8,http://xn--94q.l5.ca/daili/Smartv.php?id=ch8_patChannel 3 Thailand,http://xn--94q.l5.ca/daili/Smartv.php?id=ch3_patChannel 5 Thailand,http://xn--94q.l5.ca/daili/Smartv.php?id=ch5_patChannel 7 Thailand,http://xn--94q.l5.ca/daili/Smartv.php?id=ch7_patGmm Channel,http://xn--94q.l5.ca/daili/Smartv.php?id=gmmchannel_patGmmOne,http://xn--94q.l5.ca/daili/Smartv.php?id=gmmone_patMCOT HD Thailand-1,http://xn--94q.l5.ca/daili/Smartv.php?id=mcot_patMono,http://xn--94q.l5.ca/daili/Smartv.php?id=mono_patNation,http://xn--94q.l5.ca/daili/Smartv.php?id=nation_patNbt,http://xn--94q.l5.ca/daili/Smartv.php?id=nbt_patNew,http://xn--94q.l5.ca/daili/Smartv.php?id=new_patPPTV Thailand1,http://xn--94q.l5.ca/daili/Smartv.php?id=pptv_patTPTV,http://xn--94q.l5.ca/daili/Smartv.php?id=tptv_patThai Thai,http://xn--94q.l5.ca/daili/Smartv.php?id=thaithai_patThairath,http://xn--94q.l5.ca/daili/Smartv.php?id=thairath_patTnn24,http://xn--94q.l5.ca/daili/Smartv.php?id=tnn24_patWorkpoint,http://xn--94q.l5.ca/daili/Smartv.php?id=workpoint_patTpbs,http://xn--94q.l5.ca/daili/Smartv.php?id=tpbs_patAl-Jazeera,http://xn--94q.l5.ca/daili/Smartv.php?id=aljazeera_twnAnimal Planet,http://xn--94q.l5.ca/daili/Smartv.php?id=AnimalPlanetAxn,http://xn--94q.l5.ca/daili/Smartv.php?id=AxnBBC 1,http://xn--94q.l5.ca/daili/Smartv.php?id=bbc1_antikBBC 2,http://xn--94q.l5.ca/daili/Smartv.php?id=bbc2_antikBBC Earth HD,http://xn--94q.l5.ca/daili/Smartv.php?id=bbcearth_twnBBC Earth Lifestyle,http://xn--94q.l5.ca/daili/Smartv.php?id=bbclifestyle_twnBBC World News,http://xn--94q.l5.ca/daili/Smartv.php?id=bbcworldnews_antikBloomberg News,http://xn--94q.l5.ca/daili/Smartv.php?id=bloomberg_twnBoomerang,http://xn--94q.l5.ca/daili/Smartv.php?id=BoomerangCBBC,http://xn--94q.l5.ca/daili/Smartv.php?id=cbbc_antikCBeebies,http://xn--94q.l5.ca/daili/Smartv.php?id=CbeebiesCGTN,http://xn--94q.l5.ca/daili/Smartv.php?id=CGTNCNBC,http://xn--94q.l5.ca/daili/Smartv.php?id=cnbc_twnChannel 4,http://xn--94q.l5.ca/daili/Smartv.php?id=channel4_antikDW,http://xn--94q.l5.ca/daili/Smartv.php?id=dw_twnEuronews,http://xn--94q.l5.ca/daili/Smartv.php?id=euronews_antikFrance 24,http://xn--94q.l5.ca/daili/Smartv.php?id=france24_twnFreesports,http://xn--94q.l5.ca/daili/Smartv.php?id=freesports_antikHBO,http://xn--94q.l5.ca/daili/Smartv.php?id=HboHGTV,http://xn--94q.l5.ca/daili/Smartv.php?id=HGTVHistory,http://xn--94q.l5.ca/daili/Smartv.php?id=HistoryHits,http://xn--94q.l5.ca/daili/Smartv.php?id=HitsmovieKids,http://xn--94q.l5.ca/daili/Smartv.php?id=KidsTVMTV Live,http://xn--94q.l5.ca/daili/Smartv.php?id=mtvhd_twnMore4,http://xn--94q.l5.ca/daili/Smartv.php?id=more4_antikNHK World,http://xn--94q.l5.ca/daili/Smartv.php?id=nhkworld_japanNatGeo HD,http://xn--94q.l5.ca/daili/Smartv.php?id=NatgeoNatGeo Wild HD,http://xn--94q.l5.ca/daili/Smartv.php?id=NatgeowildNick Jr,http://xn--94q.l5.ca/daili/Smartv.php?id=NickjrNickelodeon,http://xn--94q.l5.ca/daili/Smartv.php?id=NickelodeonPick TV,http://xn--94q.l5.ca/daili/Smartv.php?id=picktv_antikSkynews,http://xn--94q.l5.ca/daili/Smartv.php?id=skynews_antikSkysports Arena,http://xn--94q.l5.ca/daili/Smartv.php?id=tiankongarenaSkysports Cricket,http://xn--94q.l5.ca/daili/Smartv.php?id=tiankongcricketSkysports EPL,http://xn--94q.l5.ca/daili/Smartv.php?id=tiankongeplSkysports F1,http://xn--94q.l5.ca/daili/Smartv.php?id=tiankongf1Skysports Football,http://xn--94q.l5.ca/daili/Smartv.php?id=tiankongfootballSkysports Golf,http://xn--94q.l5.ca/daili/Smartv.php?id=tiankonggolfSkysports Main Event,http://xn--94q.l5.ca/daili/Smartv.php?id=tiankongmainSkysports News,http://xn--94q.l5.ca/daili/Smartv.php?id=tiankongnewsStar Movies HD,http://xn--94q.l5.ca/daili/Smartv.php?id=starmovies_rajTLC,http://xn--94q.l5.ca/daili/Smartv.php?id=TlcThrill,http://xn--94q.l5.ca/daili/Smartv.php?id=ThrillWarner TV,http://xn--94q.l5.ca/daili/Smartv.php?id=WarnerTVItv1,http://xn--94q.l5.ca/daili/Smartv.php?id=itv1_antikItv2,http://xn--94q.l5.ca/daili/Smartv.php?id=itv2_antikANTV,http://xn--94q.l5.ca/daili/Smartv.php?id=viet_antvBPTV 2,http://xn--94q.l5.ca/daili/Smartv.php?id=viet_bptv2BRT HD,http://xn--94q.l5.ca/daili/Smartv.php?id=viet_brtCa Mau TV,http://xn--94q.l5.ca/daili/Smartv.php?id=viet_camautvDanang TV1,http://xn--94q.l5.ca/daili/Smartv.php?id=viet_danangtv1Danang TV2,http://xn--94q.l5.ca/daili/Smartv.php?id=viet_danangtv2HBTV HD,http://xn--94q.l5.ca/daili/Smartv.php?id=viet_hbtvHTV 7,http://xn--94q.l5.ca/daili/Smartv.php?id=viet_htv7HTV 9,http://xn--94q.l5.ca/daili/Smartv.php?id=viet_htv9PTTH 1,http://xn--94q.l5.ca/daili/Smartv.php?id=viet_ptth1VTV 1,http://xn--94q.l5.ca/daili/Smartv.php?id=viet_vtv1VTV 7,http://xn--94q.l5.ca/daili/Smartv.php?id=viet_vtv7All the Kpop,http://xn--94q.l5.ca/daili/Smartv.php?id=allthekpop_koreaApps TV,http://xn--94q.l5.ca/daili/Smartv.php?id=appongoogle_koreaArirang HD,http://xn--94q.l5.ca/daili/Smartv.php?id=arirang_koreaCBS,http://xn--94q.l5.ca/daili/Smartv.php?id=cbs_koreaCGNTV,http://xn--94q.l5.ca/daili/Smartv.php?id=cgntv_koreaEBS1,http://xn--94q.l5.ca/daili/Smartv.php?id=ebs1_koreaEBS Kids,http://xn--94q.l5.ca/daili/Smartv.php?id=ebskids_koreaEBS Plus2,http://xn--94q.l5.ca/daili/Smartv.php?id=ebsplus2_koreaEBS2,http://xn--94q.l5.ca/daili/Smartv.php?id=ebs2_koreaJ the Kpop,http://xn--94q.l5.ca/daili/Smartv.php?id=jthekpop_koreaKBS World 24,http://xn--94q.l5.ca/daili/Smartv.php?id=kbsworld24_koreaSBS Plus,http://xn--94q.l5.ca/daili/Smartv.php?id=sbsplus_koreaYTN DMB,http://xn--94q.l5.ca/daili/Smartv.php?id=ytndmb_koreaYTN Korean,http://xn--94q.l5.ca/daili/Smartv.php?id=ytnkorean_koreaYTN Science,http://xn--94q.l5.ca/daili/Smartv.php?id=ytnscience_koreaYTN,http://xn--94q.l5.ca/daili/Smartv.php?id=ytn_koreaYonhap News,http://xn--94q.l5.ca/daili/Smartv.php?id=yonhapnews_koreaBS TBS,http://xn--94q.l5.ca/daili/Smartv.php?id=bstbs_japanBS,http://xn--94q.l5.ca/daili/Smartv.php?id=bs181_japanBS Fuji,http://xn--94q.l5.ca/daili/Smartv.php?id=bsfuji_japanCNA Japan,http://xn--94q.l5.ca/daili/Smartv.php?id=cna_japanJET,http://xn--94q.l5.ca/daili/Smartv.php?id=jettv_japanNHK Oaska,http://xn--94q.l5.ca/daili/Smartv.php?id=nhkosaka_japanNHK World,http://xn--94q.l5.ca/daili/Smartv.php?id=nhkworld_japanNHK-E,http://xn--94q.l5.ca/daili/Smartv.php?id=nhke_japanNHK2,http://xn--94q.l5.ca/daili/Smartv.php?id=nhkg_japanNHKBS1,http://xn--94q.l5.ca/daili/Smartv.php?id=nhkbs1_japanNHKBS Premium,http://xn--94q.l5.ca/daili/Smartv.php?id=nhkpremium_japanTOKYOMX,http://xn--94q.l5.ca/daili/Smartv.php?id=tokyomx_japan朝日 Asahi,http://xn--94q.l5.ca/daili/Smartv.php?id=asahitv_japan东京 Tokyo,http://xn--94q.l5.ca/daili/Smartv.php?id=tokyotv_japan   
+
+
+
+
+
+
+
+Footer
+
+
+
+
+
+
+
+
+        © 2026 GitHub, Inc.
+      
+
+
+Footer navigation
+
+
+Terms
+
+
+Privacy
+
+
+Security
+
+
+Status
+
+
+Community
+
+
+Docs
+
+
+Contact
+
+
+
+
+       Manage cookies
+    
+
+
+
+
+
+      Do not share my personal information
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    You can’t perform that action at this time.
+  
+
+
+
+
+
+
+
+
 
 
 
