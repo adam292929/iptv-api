@@ -281,6 +281,7 @@
 # http://192.168.3.12:1234
 # https://raw.githubusercontent.com/xmbjm/IPTV/master/output/user_result.m3u
 # https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt
+# https://github.com/wcb1969/iptv/blob/main/上海百视通联通.txt
 https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
 https://raw.githubusercontent.com/wcb1969/iptv/refs/heads/main/%E8%A1%A1%E9%98%B3V6.txt
 https://raw.githubusercontent.com/wcb1969/iptv/refs/heads/main/%E6%B8%AF%E5%8F%B04G%E4%BB%A3%E7%90%86.txt
@@ -548,7 +549,6 @@ https://raw.githubusercontent.com/TianmuTNT/iptv/main/iptv.txt
 https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1.m3u
 https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt
 https://github.com/wcb1969/iptv/blob/main/泰州电信组播.txt
-https://github.com/wcb1969/iptv/blob/main/秦岭云.txt
 https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
 https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
 https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
@@ -592,7 +592,7 @@ https://gitee.com/blbj778/blb778iptv/raw/master/live.txt
 https://gitee.com/king12985/tv/raw/master/lives/20180818.txt
 https://tvv.tw/github.com/fafa002/yf2025/blob/main/yiyifafa.txt
 
-# https://github.com/wcb1969/iptv/blob/main/上海百视通联通.txt
+# https://github.com/wcb1969/iptv/blob/main/秦岭云.txt
 
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
